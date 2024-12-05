@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Install
 npm install antd
+npm install react-router-dom
+npm install axios
 
 
 ## Available Scripts
